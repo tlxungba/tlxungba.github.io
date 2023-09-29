@@ -5,4 +5,4 @@ NewLaunch=1.0.1.10
 [Patch_0]
 VersionFrom=1.00.0040
 VersionTo=1.00.0041
-URL_1=https://tlxungba.github.io/files/Update39-40.zip
+URL_1=https://tlxungba.github.io/files/Update40-41.zip
